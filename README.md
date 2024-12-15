@@ -1,1 +1,8 @@
-this shit works in progress im trying to find a thing that has cli interface not gui can decrypt fh sounds
+# FHRadioManager
+
+
+## Supported
+- Forza Horizon 4
+## Requirements
+- .NET Framework 8.0
+  
